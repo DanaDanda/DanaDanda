@@ -26,7 +26,7 @@ I’m a developer with a strong academic and practical background in **Informati
 - 🎯 Goal: Build impactful and efficient digital solutions
 ---
 
-## 👨‍💻 Recent Project
+## 👨‍💻 Recent Projects
 ### 🤖 EVA Academy – AI-Powered Python Learning Platform
 📌 Designed and developed a full-stack edtech platform delivering personalized Python education to children, teens, and adults through an AI tutor and mastery-based learning system.
 
