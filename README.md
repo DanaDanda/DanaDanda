@@ -39,6 +39,7 @@ I’m a developer with a strong academic and practical background in **Informati
 - Generated **PDF certificates** and **mini project portfolios** using ReportLab
 - Designed **XP system, leaderboard, challenges, quests, and badges** for engagement
 - Deployed with **auto-deploy on GitHub push** via Render + Supabase PostgreSQL
+- **Live Demo:** [EVA Academy](https://evaacademy.onrender.com)
 
 🔧 Tech Stack:
 
@@ -63,6 +64,7 @@ I’m a developer with a strong academic and practical background in **Informati
 - Designed **interactive student experience** (enrollment, progress tracking)
 - Integrated **review and rating system** to enhance course quality
 - Structured database and backend logic for scalability and performance
+- **Live Demo:** [LearnGateway](https://learngateway-production.up.railway.app/)
 
 🔧 Tech Stack:
 
